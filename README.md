@@ -10,6 +10,10 @@
 <h2>Quick Links</h2>
 <p>Project README.md links:</p>
 <ul>
+    <li><a href='/Computer Simulation/'>Computer Simulation</a></li>
+    <li><a href='/Computer Modelling/'>Computer Modelling</a></li>
+    <li><a href='/Data Modelling And Visualisation/README.md'>Data Modelling And Visualisation</a></li>
     <li><a href='/Senior Honours Project/README.md'>Senoir Honours Project (Emulating Power Spectra with Neural Networks)</a></li>
     <li><a href='/Senior Honours Project/Results/Dark_Matter_Halos_Neural_Networks.pdf'>Senoir Honours Project Report</a></li>
+    <li><a href='/Telescope Group Project/'>Telescope Group Project</a></li>
 </ul>
