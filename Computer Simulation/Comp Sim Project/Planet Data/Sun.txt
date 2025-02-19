@@ -1,0 +1,7 @@
+Name = Sun
+
+mass = 1.989 * 10 ** 30
+initial position = (0,0)
+initial velocity = (0,0)
+colour = y
+radius = (1/10) * 6.96340 * 10 ** 8

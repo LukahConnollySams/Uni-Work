@@ -1,0 +1,7 @@
+Name = Satellite1
+
+mass = 2.180 * 10 ** 3
+initial position = (1.496 * 10 ** 11 + 6.378 * 10 ** 6, 0)
+initial velocity = (0, 0)
+colour = w
+radius = 5 * (10 ** 6)

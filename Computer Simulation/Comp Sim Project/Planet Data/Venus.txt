@@ -1,0 +1,7 @@
+Name = Venus
+
+mass = 4.87 * 10 ** 24
+initial position = (1.08 * 10 ** 11, 0)
+initial velocity = (0, (G * 1.989 * 10 ** 30 / (1.08 * 10 ** 11)) ** 0.5)
+colour = g
+radius = 6.052 * 10 ** 6
